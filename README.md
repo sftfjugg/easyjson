@@ -1,3 +1,5 @@
+针对给定结构体做 JSON 序列化 / 反序列化的第三方包
+
 # easyjson [![Build Status](https://github.com/mailru/easyjson/actions/workflows/easyjson.yml/badge.svg)](https://github.com/mailru/easyjson/actions/workflows/easyjson.yml) [![Go Report Card](https://goreportcard.com/badge/github.com/mailru/easyjson)](https://goreportcard.com/report/github.com/mailru/easyjson)
 
 Package easyjson provides a fast and easy way to marshal/unmarshal Go structs
